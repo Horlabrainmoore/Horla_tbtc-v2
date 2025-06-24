@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@keep-network/yearn-vaults": "github:keep-network/yearn-vaults.git#yearn-vaults-v0.4.3-1",
-    "@openzeppelin/contracts": "3.4.0"
+    "@openzeppelin/contracts": "4.9.6"
   },
   "devDependencies": {
     "@keep-network/hardhat-helpers": "github:keep-network/hardhat-helpers#v0.1.0",
