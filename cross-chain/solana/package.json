@@ -10,7 +10,7 @@
         "lint": "prettier */*.js \"*/**/*{.js,.ts}\" --check"
     },
     "dependencies": {
-        "@coral-xyz/anchor": "^0.28.0"
+        "@coral-xyz/anchor": "^0.31.1"
     },
     "devDependencies": {
         "@certusone/wormhole-sdk": "^0.9.22",
