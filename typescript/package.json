@@ -27,13 +27,13 @@
   "dependencies": {
     "@bitcoinerlab/secp256k1": "^1.0.5",
     "@keep-network/ecdsa": "development",
-    "@keep-network/tbtc-v2": "development",
+    "@keep-network/tbtc-v2": "1.7.0",
     "bignumber.js": "^9.1.2",
     "bitcoinjs-lib": "^6.1.5",
     "bufio": "^1.0.6",
     "ecpair": "^2.1.0",
-    "electrum-client-js": "git+https://github.com/keep-network/electrum-client-js.git#v0.1.1",
-    "ethers": "^5.5.2",
+    "electrum-client-js": "3.0.0",
+    "ethers": "^6.0.0",
     "p-timeout": "^4.1.0",
     "url-parse": "^1.5.10",
     "wif": "2.0.6"
