@@ -19,7 +19,7 @@
   ],
   "dependencies": {
     "@keep-network/tbtc-v2.ts": "^2.3.0",
-    "elliptic": "^6.5.4",
+    "elliptic": "^6.6.0",
     "wif": "^2.0.6"
   },
   "devDependencies": {
