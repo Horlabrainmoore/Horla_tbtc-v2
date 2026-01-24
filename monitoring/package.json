@@ -15,7 +15,7 @@
     "@keep-network/tbtc-v2.ts": "v2.5.0-dev.5",
     "@sentry/node": "^7.33.0",
     "axios": "^1.3.2",
-    "ethers": "^5.5.2",
+    "ethers": "^6.0.0",
     "node-json-db": "^2.1.4"
   },
   "devDependencies": {
